@@ -92,7 +92,7 @@ Sections:
 | Resource Requirements| Minimal (cloud-hosted infrastructure)| Requires local hardware and computational power|
 
 ## Conclusion
-Both chatbots have value
+Both chatbots have value.
 ### Dante AI: 
 - Best for quick deployment, fast responses, and ease of use, but limited in customization and data privacy
 - Significant Pro: fast responses, suggests user inputs

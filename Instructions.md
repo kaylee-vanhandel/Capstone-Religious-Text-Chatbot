@@ -6,3 +6,4 @@
 4. Upload the file into the notebook
 5. Run the chunks
 6. Interact with the chatbot using the Gradio interface
+7. Use [sample questions](SampleQuestions.txt) for input suggestions
