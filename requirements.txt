@@ -1,0 +1,8 @@
+python3 = 3.10
+pypdf = 5.1.0
+langchain-community = 0.3.8
+sentence-transformers
+gradio
+llama-index
+llama-index-embeddings-langchain
+llama-index-llms-llama-cpp = 0.3.0
